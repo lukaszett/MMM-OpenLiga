@@ -1,8 +1,10 @@
 # MMM-OpenLiga
 
-Simple Module for [Magic Mirror](https://github.com/MichMich/MagicMirror) that displays sports results fetched from [OpenLigaDB](https://www.openligadb.de/).
+Simple module for [Magic Mirror](https://github.com/MichMich/MagicMirror) that displays sports results fetched from [OpenLigaDB](https://www.openligadb.de/).
 
 This module is not affiliated with OpenLiga in any shape or form. It is still very much WIP.
+
+![MMM-OpenLiga](/mmm-openliga.png)
 
 ## Installation
 
