@@ -1,0 +1,35 @@
+.MMM-OpenLiga {
+	font-size: 0.8em;
+}
+
+
+tr {
+	line-height: 1.2em;
+}
+
+.teamName {
+	min-width: 85px;
+}
+
+.team1 {
+	text-align: left;
+}
+
+.team2 {
+	text-align:right;
+}
+
+.stage {
+	text-align: left;
+	font-style: bold;
+	line-height: 2em;
+}
+
+.date {
+	text-align: left;
+	font-style: bold;
+	height:20px;
+	line-height: 1em;
+	font-size: 0.5em;
+	vertical-align: bottom;
+}

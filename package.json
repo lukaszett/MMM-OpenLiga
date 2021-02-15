@@ -1,0 +1,22 @@
+{
+  "name": "mmm-openliga",
+  "version": "1.0.0",
+  "description": "MMM-Module for OpenLiga API",
+  "main": "MMM-OpenLiga.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "mmm",
+    "magicmirror",
+    "openliga",
+    "scores"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
